@@ -19,7 +19,7 @@ This repository contains the **custom PCB design of an Arduino Nano**, fully dev
 ## 📸 Preview
 
 ### Schematic
-![Schematic](Arduino Nano Custom PCB/Images&Videos/Schematic.png)
+![Schematic]([Arduino Nano Custom PCB/Images&Videos/Schematic.png](https://github.com/bhuvi-777/Arduino-Nano-custom-PCB/blob/d0a8d8445eaac6c672084b8291563117bd826a42/Arduino%20Nano%20Custom%20PCB/Images%26Videos/Schematic.png))
 
 ### PCB Layout
 ![PCB Layout](Arduino Nano Custom PCB/Images&Videos/PCB_Layout.png)
