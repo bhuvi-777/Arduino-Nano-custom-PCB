@@ -19,13 +19,13 @@ This repository contains the **custom PCB design of an Arduino Nano**, fully dev
 ## 📸 Preview
 
 ### Schematic
-![Schematic](Images/Schematic.png)
+![Schematic](Arduino Nano Custom PCB/Images&Videos/Schematic.png)
 
 ### PCB Layout
-![PCB Layout](Images/PCB_Layout.png)
+![PCB Layout](Arduino Nano Custom PCB/Images&Videos/PCB_Layout.png)
 
 ### 3D View
-![3D View](Images/3D_View.png)
+![3D View](Arduino Nano Custom PCB/Images&Videos/Schematic.png)
 
 ## 🏭 Fabrication
 You can directly use the **Gerber files** in the `Gerber/` folder for PCB manufacturing via services like:
